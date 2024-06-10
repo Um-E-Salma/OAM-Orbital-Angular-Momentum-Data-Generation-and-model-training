@@ -1,0 +1,4 @@
+!pip install keras-squeezenet
+!pip install tf_slim
+!pip install tensorflow
+!pip install torch torchvision onnx onnx-tf
